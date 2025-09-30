@@ -1,0 +1,53 @@
+RFP Test Document - Sample Government Contract
+
+Section A - General Information
+This is a test RFP document to demonstrate the extraction and classification capabilities of the RFP Extraction Platform.
+
+Section B - Background
+The contractor shall provide comprehensive IT services to support the agency's mission-critical operations. The system shall be available 99.9% of the time and shall process at least 10,000 transactions per hour.
+
+Section C - Technical Requirements
+
+3.1 Performance Requirements
+The contractor shall ensure that the system meets the following performance criteria:
+- Response time shall not exceed 2 seconds for all user queries
+- System availability shall be 99.9% or higher
+- Data processing capacity shall handle 10,000 transactions per hour
+- The application shall support concurrent users up to 500
+
+3.2 Security Requirements
+The contractor shall implement security measures that comply with FISMA requirements. All data shall be encrypted in transit and at rest. The system shall include multi-factor authentication and role-based access control.
+
+3.3 Deliverable Requirements
+The contractor shall deliver the following items:
+- System documentation including user manuals and technical specifications
+- Source code and binaries for all developed software
+- Training materials for end users and administrators
+- Monthly status reports throughout the contract period
+
+Section L - Proposal Instructions
+
+L.1 Proposal Format
+Proposals shall be submitted in the following format:
+- Executive Summary (maximum 2 pages)
+- Technical Approach (maximum 10 pages)
+- Past Performance (maximum 5 pages)
+- Cost Proposal (separate volume)
+
+L.2 Submission Requirements
+The contractor shall submit proposals by the deadline specified in the solicitation. Late proposals will not be accepted.
+
+Section M - Evaluation Criteria
+
+M.1 Evaluation Factors
+Proposals will be evaluated based on the following factors:
+- Technical Approach (40 points)
+- Past Performance (30 points)
+- Cost (30 points)
+
+M.2 Technical Evaluation
+The technical approach will be evaluated on:
+- Understanding of requirements
+- Proposed solution architecture
+- Implementation timeline
+- Risk mitigation strategies

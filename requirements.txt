@@ -1,0 +1,43 @@
+# Core FastAPI and web framework dependencies
+fastapi==0.118.0
+uvicorn[standard]==0.37.0
+python-multipart==0.0.20
+
+# Database dependencies
+sqlalchemy==2.0.43
+psycopg2-binary==2.9.10
+pgvector==0.4.1
+
+# Document processing dependencies
+python-docx==1.2.0
+pymupdf==1.25.2
+unstructured==0.16.8
+
+# AI and ML dependencies
+openai==1.58.1
+langchain==0.3.7
+langchain-openai==0.2.8
+sentence-transformers==3.3.1
+
+# Google Cloud dependencies
+google-cloud-documentai==2.25.0
+google-cloud-storage==2.18.0
+google-cloud-sql-connector==1.6.0
+
+# Data processing dependencies
+pandas==2.2.3
+numpy==2.3.3
+pydantic==2.11.9
+
+# Streamlit for frontend
+streamlit==1.42.0
+
+# Development and testing dependencies
+pytest==8.3.4
+pytest-asyncio==0.24.0
+httpx==0.28.1
+
+# Utility dependencies
+python-dotenv==1.0.1
+requests==2.32.3
+

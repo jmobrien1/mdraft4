@@ -1,0 +1,33 @@
+
+    RFP Test Document
+    
+    Section C - Technical Requirements
+    
+    3.1 Performance Requirements
+    The contractor shall provide a system that meets the following performance criteria:
+    - Response time shall not exceed 2 seconds
+    - System availability shall be 99.9%
+    - Data processing capacity shall handle 10,000 transactions per hour
+    
+    3.2 Deliverable Requirements
+    The contractor shall deliver:
+    - System documentation
+    - User training materials
+    - Source code and binaries
+    
+    Section L - Proposal Instructions
+    
+    L.1 Proposal Format
+    Proposals shall be submitted in the following format:
+    - Executive Summary (2 pages maximum)
+    - Technical Approach (10 pages maximum)
+    - Cost Proposal (separate volume)
+    
+    Section M - Evaluation Criteria
+    
+    M.1 Evaluation Factors
+    Proposals will be evaluated based on:
+    - Technical Approach (40 points)
+    - Past Performance (30 points)
+    - Cost (30 points)
+    
