@@ -22,7 +22,7 @@ sentence-transformers==3.3.1
 
 # Data processing dependencies
 pandas==2.2.3
-numpy==2.3.3
+numpy==1.26.4
 pydantic==2.11.9
 
 # Streamlit for frontend
